@@ -38,7 +38,7 @@ library-management
 
 library.db is a local database file and is excluded from Git tracking.
 
-How to Run
+## How to Run
 Clone the repository.
 Open the project folder in VS Code.
 Run:
@@ -64,7 +64,7 @@ Member, book, and issue records are stored in a local SQLite database.
 
 The data remains available even after closing and restarting the application.
 
-Screenshots
+## Screenshots
 Main Menu
 
 Members and Books
@@ -74,7 +74,6 @@ Issued Books
 Return and Overdue Books
 
 ## Future Improvements
-
 Graphical user interface
 Fine calculation for overdue books
 Book reservation system
